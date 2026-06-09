@@ -27,4 +27,3 @@ Hi there 👋<br>Hello there ! I'am Pasindu an undergraduate students studying a
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kaumikapasindu&show_icons=true&locale=en" alt="kaumikapasindu" /></p>
