@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there 👋<br>Hello there ! I'am Pasindu an undergraduate students studying at sliit city uni in sri lanka.Passionate about AI and Robotics., data analytics, and emerging technologies.<br><br> I am actively studying Data Analytics, Power BI, Excel, Data Visualization, and Business Intelligence.<br><br>My primary interests include Artificial Intelligence, Machine Learning, Robotics, Data Science, and Full-Stack Development. I enjoy building practical solutions, analyzing data, and exploring innovative technologies that can solve real-world problems.<br><br>I am continuously learning and working on projects that strengthen my technical skills while preparing for a career in AI Engineering and Data Analytics.
+<br>Hello there ! I'am Pasindu an undergraduate students studying at sliit city uni in sri lanka.Passionate about AI and Robotics., data analytics, and emerging technologies.<br><br> I am actively studying Data Analytics, Power BI, Excel, Data Visualization, and Business Intelligence.<br><br>My primary interests include Artificial Intelligence, Machine Learning, Robotics, Data Science, and Full-Stack Development. I enjoy building practical solutions, analyzing data, and exploring innovative technologies that can solve real-world problems.<br><br>I am continuously learning and working on projects that strengthen my technical skills while preparing for a career in AI Engineering and Data Analytics.
 
 
 ## 🌐 Socials:
@@ -15,9 +15,6 @@ Hi there 👋<br>Hello there ! I'am Pasindu an undergraduate students studying a
 ![](https://github-readme-stats.shion.dev/api?username=kaumikapasindu&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=kaumikapasindu&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=kaumikapasindu&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=kaumikapasindu&limit=5&theme=dark&combine_all_yearly_contributions=true)
