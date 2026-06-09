@@ -7,6 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
+
+
+
 - 🌱 I’m currently learning **postgresql,python,machine learing**
 
 - 💬 Ask me about **postgresql**
@@ -14,6 +17,7 @@
 - 📫 How to reach me **kaumikapasindu@gmail.com**
 
 - ⚡ Fun fact **I enjoy solving programming challenges and exploring new technologies.**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
